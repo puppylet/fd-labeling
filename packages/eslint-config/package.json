@@ -1,0 +1,23 @@
+{
+  "name": "@label/eslint-config",
+  "version": "0.0.1",
+  "description": "ESLint Configuration",
+  "author": "EATLAB",
+  "license": "Commercial",
+  "main": "base.js",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.60.0",
+    "@typescript-eslint/parser": "^5.60.0",
+    "eslint": "8.45.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-config-react": "^1.1.7",
+    "eslint-import-resolver-typescript": "^3.5.3",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-lodash": "^7.4.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.32.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-unicorn": "^45.0.2",
+    "prettier": "2.8.8"
+  }
+}
